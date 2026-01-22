@@ -1,4 +1,4 @@
-# kredi_hesaplama_project
+# Credit_calculate_project
 
 #genel bakış
 Bu projede HTML, CSS Boostrap, DOM özelliklerine hakim oldum.
